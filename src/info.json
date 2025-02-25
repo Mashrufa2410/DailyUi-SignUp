@@ -1,0 +1,131 @@
+{
+    "services": [
+      {
+        "name": "Career Counseling Sessions",
+        "category": "Online",
+        "description": "One-on-one career counseling to help you achieve your professional goals.",
+        "pricing": "$50 per session",
+        "duration": {
+          "date": "2024-12-05",
+          "time": "5:00 PM - 6:00 PM"
+        },
+        "counselor": "John Doe",
+        "rating": 4.8,
+        "learn_more": "https://example.com/career-counseling",
+        "image_url": "https://i.ibb.co.com/T2ytvT6/Screenshot-2024-11-19-at-9-09-37-AM.png"
+      },
+      {
+        "name": "Resume Review",
+        "category": "Offline",
+        "description": "Get your resume reviewed and tailored to stand out to employers.",
+        "pricing": "$30 per review",
+        "duration": {
+          "date": "2024-12-06",
+          "time": "3:00 PM - 4:00 PM"
+        },
+        "counselor": "Jane Smith",
+        "rating": 4.7,
+        "learn_more": "https://example.com/resume-review",
+        "image_url": "https://i.ibb.co.com/vs8sckQ/Screenshot-2024-11-19-at-9-10-08-AM.png"
+      },
+      {
+        "name": "Mock Interviews",
+        "category": "Group",
+        "description": "Practice your interview skills in a group setting with constructive feedback.",
+        "pricing": "$40 per session",
+        "duration": {
+          "date": "2024-12-10",
+          "time": "2:00 PM - 4:00 PM"
+        },
+        "counselor": "Alice Johnson",
+        "rating": 4.9,
+        "learn_more": "https://example.com/mock-interviews",
+        "image_url": "https://i.ibb.co.com/7JXSWRX/Screenshot-2024-11-19-at-9-10-36-AM.png"
+      },
+      {
+        "name": "Personal Branding Workshop",
+        "category": "Online",
+        "description": "Learn how to create a strong personal brand to enhance your career.",
+        "pricing": "$60 per session",
+        "duration": {
+          "date": "2024-12-12",
+          "time": "6:00 PM - 8:00 PM"
+        },
+        "counselor": "Robert Brown",
+        "rating": 4.6,
+        "learn_more": "https://example.com/personal-branding",
+        "image_url": "https://i.ibb.co.com/HgSW6CZ/Screenshot-2024-11-19-at-9-48-08-AM.png"
+      },
+      {
+        "name": "Time Management Skills",
+        "category": "Online",
+        "description": "Master time management techniques to boost productivity.",
+        "pricing": "$35 per session",
+        "duration": {
+          "date": "2024-12-15",
+          "time": "1:00 PM - 2:00 PM"
+        },
+        "counselor": "Emma Davis",
+        "rating": 4.7,
+        "learn_more": "https://example.com/time-management",
+        "image_url": "https://i.ibb.co.com/xjb2fBJ/Screenshot-2024-11-19-at-9-49-37-AM.png"
+      },
+      {
+        "name": "LinkedIn Profile Optimization",
+        "category": "Online",
+        "description": "Optimize your LinkedIn profile to attract the right opportunities.",
+        "pricing": "$25 per session",
+        "duration": {
+          "date": "2024-12-18",
+          "time": "4:00 PM - 5:00 PM"
+        },
+        "counselor": "Michael Carter",
+        "rating": 4.8,
+        "learn_more": "https://example.com/linkedin-optimization",
+        "image_url": "https://i.ibb.co.com/HgSW6CZ/Screenshot-2024-11-19-at-9-48-08-AM.png"
+      },
+      {
+        "name": "Effective Communication Skills",
+        "category": "Group",
+        "description": "Enhance your communication skills in professional and personal settings.",
+        "pricing": "$45 per session",
+        "duration": {
+          "date": "2024-12-20",
+          "time": "10:00 AM - 12:00 PM"
+        },
+        "counselor": "Sophia Lee",
+        "rating": 4.9,
+        "learn_more": "https://example.com/communication-skills",
+        "image_url": "https://i.ibb.co.com/7JXSWRX/Screenshot-2024-11-19-at-9-10-36-AM.png"
+      },
+      {
+        "name": "Advanced Leadership Skills Training.",
+        "category": "Offline",
+        "description": "Develop the skills necessary to lead and inspire a team effectively.",
+        "pricing": "$70 per session",
+        "duration": {
+          "date": "2024-12-22",
+          "time": "3:00 PM - 5:00 PM"
+        },
+        "counselor": "David Wilson",
+        "rating": 4.8,
+        "learn_more": "https://example.com/leadership-training",
+        "image_url": "https://i.ibb.co.com/7JXSWRX/Screenshot-2024-11-19-at-9-10-36-AM.png"
+      },
+      {
+        "name": "Stress Management Workshop",
+        "category": "Online",
+        "description": "Learn strategies to manage stress and maintain mental well-being.",
+        "pricing": "$30 per session",
+        "duration": {
+          "date": "2024-12-28",
+          "time": "5:00 PM - 6:30 PM"
+        },
+        "counselor": "Olivia Martinez",
+        "rating": 4.6,
+        "learn_more": "https://example.com/stress-management",
+        "image_url": "https://i.ibb.co.com/7JXSWRX/Screenshot-2024-11-19-at-9-10-36-AM.png"
+      }
+    ]
+  }
+  
